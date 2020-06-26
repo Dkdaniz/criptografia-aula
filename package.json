@@ -1,0 +1,14 @@
+{
+  "name": "cripto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "simetrica": "node ./Simetrica/index.js",
+    "assimetrica": "node ./Assimetrica/index.js",
+    "hash": "node ./Hash/index.js"
+  },
+  "dependencies": {
+    "node-cache": "^5.1.1"
+  }
+}
