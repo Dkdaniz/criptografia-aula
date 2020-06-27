@@ -15,7 +15,7 @@ execute = async () => {
       {
         hash: '3c30af23f53529a5d32621acd64be572c4eb8749b3957baa7d531351b697517e'
       },
-      { blockiD: 'eece25f3fac30626c765f7dbd4080e36210bc0b041c0cb14380c12fab0d10c8c' }],
+      { blockiD: 'eece25f3fc30626c765f7dbd4080e36210bc0b041c0cb14380c12fab0d10c8c' }],
     [
       {
         from: 'skaoskaoskasasa',
@@ -43,14 +43,15 @@ execute = async () => {
       { blockiD: '9a519979f99f81c803695d8f75454dd4ab2337af7c842550582f8c4c391f346f' },
       { blockiDBefore: '5918c6b2ebd7971816f28fac40d48b42f568bb4b67539907ce0a24506ec016c3' }],
     ],
-    
-  
   );
 
   //informacao valida ela se da pela formula matematica 
   // formula => (n/2 + 1) = Consenso.
   // n = poder computacional
   // n / 2 = 50% + 1;
+
+ 
+
 
 
 

@@ -20,3 +20,8 @@ yarn
 ```javascript
   yarn assimetrica
 ```
+
+### criptografia
+```javascript
+  yarn criptografia
+```

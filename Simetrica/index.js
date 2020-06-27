@@ -8,7 +8,7 @@ execute = async () => {
   console.log(hash);
   console.log("\n\nCOPY THIS SEED\n\n");
 
-  const text = 'OI PESSOAL';
+  const text = 'CHAL PESSOAL';
 
   const encrypted = cypher.encrypt(hash, text);
   console.log("THIS ENCRYPTED\n\n");

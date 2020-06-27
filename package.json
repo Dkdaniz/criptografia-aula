@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "criptografia": "node ./MyCripto/index.js",
     "simetrica": "node ./Simetrica/index.js",
     "assimetrica": "node ./Assimetrica/index.js",
     "hash": "node ./Hash/index.js"
