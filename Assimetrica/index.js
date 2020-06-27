@@ -4,6 +4,7 @@ const cypher = require("./cypher");
 execute = async () => {
 
 const text = "MY TEXT";
+  
 const { publicKey, privateKey } = await keys.generate();
 
 console.log("THIS PUBLIC KEY\n\n");
